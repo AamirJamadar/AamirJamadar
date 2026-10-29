@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://theaamirjamadar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Portfolio-theaamirjamadar.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
@@ -22,8 +28,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamadaraamir/">LinkedIn</a> ·
-  <a href="mailto:aamirjamadar2007@gmail.com">Email</a>
+  <a href="https://theaamirjamadar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-theaamirjamadar.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/jamadaraamir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-jamadaraamir-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aamirjamadar2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aamirjamadar2007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <picture>
